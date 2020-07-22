@@ -1,8 +1,0 @@
----
-layout: default
-img: ridge.png
-category: About Me
-title: Peachtree Ridge High School
-description: |
----
-  I went to Peachtree Ridge High School in Suwannee where I joining and eventually became an officer in a popular club called the Technology Student Association and competed every year. My greatest achievement was placing 3rd in Georgia for fashion design, you can see my winning dress here! During high school, I was also apart of a Dual-Enrollment program where I took college classes my senior year, this helped me get my general education classes done so I had the opportunity to get right into my core classes once I graduated.
