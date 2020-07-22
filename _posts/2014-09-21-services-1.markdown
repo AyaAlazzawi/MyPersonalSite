@@ -2,7 +2,7 @@
 layout: default
 img: lebanon.png
 category: About Me
-title: Beirut, Lebanon
+title: Lebanon
 description: |
 ---
   Originally, I am from a small village east of Beirut tucked away in the mountains where the population is less than 200. My family immigrated to Georgia in 2000 where my father became an Electrician which sparked my love for technology. Here's some photos I took last summer in Lebanon!

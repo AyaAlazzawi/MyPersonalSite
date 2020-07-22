@@ -1,8 +1,8 @@
 ---
 layout: default
-img: phones.png
-category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+img: ksu.png
+category: About Me
+title: Kennesaw State University
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+After I graduated, I moved to Marietta to attend Kennesaw State University. Currently, I am a Computer Engineering student and I intend to graduate Fall 2021. I fell in love with this field my first semester of college and have not stopped working hard since then. My Freshman year, I helped form a professional club at KSU called the Computer Engineering Apprentices(link) to get more students involved in school and expand their interests in Engineering, now it is my Junior year and I have become President of this club and already have made so many plans for the upcoming school year!
